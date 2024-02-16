@@ -1,2 +1,2 @@
 **Minimum Popular Votes to Win the Electoral College**
-This program calculates the minimum number of popular votes required to win the Electoral College in a specified election year. It takes into account the distribution of electoral votes across states and uses a combination of brute force and optimization techniques to find the least number of popular votes needed to secure a majority in the Electoral College.
+-This program calculates the minimum number of popular votes required to win the Electoral College in a specified election year. It takes into account the distribution of electoral votes across states and uses a combination of brute force and optimization techniques to find the least number of popular votes needed to secure a majority in the Electoral College.
